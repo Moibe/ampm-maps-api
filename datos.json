@@ -1,0 +1,409 @@
+{
+    "GUIAS": [
+      {
+        "GuiaId": "CNA000003256226",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 17,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "753032890018",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.74333,
+        "Longitud": -103.36181,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753034100010",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.69822,
+        "Longitud": -103.308504,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "CNA000003378372",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.71059,
+        "Longitud": -103.310675,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "1Z3Y7Y486792975327",
+        "ClienteId": 1000343,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.690752,
+        "Longitud": -103.269169,
+        "TipoMovimientoOperativoId": 24,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755771890018",
+        "ClienteId": 1000339,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.626615,
+        "Longitud": -103.322339,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "750366070019",
+        "ClienteId": 500011,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.619739,
+        "Longitud": -103.454891,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "CNA000003355177",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.607093,
+        "Longitud": -103.342812,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753042600019",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.715213,
+        "Longitud": -103.343948,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753046780015",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 21,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "755257240019",
+        "ClienteId": 1000799,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 14,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "755743690017",
+        "ClienteId": 1000254,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.668812,
+        "Longitud": -103.350528,
+        "TipoMovimientoOperativoId": 20,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753390620015",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.68285,
+        "Longitud": -103.33595,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753390970014",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "CNA000003342752",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 17,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "CNA000003375537",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "755812870011",
+        "ClienteId": 1000234,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.63574,
+        "Longitud": -103.3529,
+        "TipoMovimientoOperativoId": 20,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755870010013",
+        "ClienteId": 1000339,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.668812,
+        "Longitud": -103.350528,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755901840016",
+        "ClienteId": 1000339,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.626615,
+        "Longitud": -103.322339,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "749980070017",
+        "ClienteId": 500011,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 12,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "CNA000003355043",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.784076,
+        "Longitud": -103.475931,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753044810012",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.677681,
+        "Longitud": -103.327473,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "CNA000003373704",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.587251,
+        "Longitud": -103.234247,
+        "TipoMovimientoOperativoId": 1,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "1Z25E9X37730201846",
+        "ClienteId": 1000343,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "755608650015",
+        "ClienteId": 1000234,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.63574,
+        "Longitud": -103.3529,
+        "TipoMovimientoOperativoId": 20,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755622320017",
+        "ClienteId": 1000234,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.63574,
+        "Longitud": -103.3529,
+        "TipoMovimientoOperativoId": 20,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755695120013",
+        "ClienteId": 1000234,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.626725,
+        "Longitud": -103.322998,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "ITX00000000100001228671",
+        "ClienteId": 1001321,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.692539,
+        "Longitud": -103.328729,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755760400019",
+        "ClienteId": 1000251,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.668812,
+        "Longitud": -103.350528,
+        "TipoMovimientoOperativoId": 20,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "756419370017",
+        "ClienteId": 1000030,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.62681,
+        "Longitud": -103.32187,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "43289739407",
+        "ClienteId": 1001127,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 12,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "CNA000003364876",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.703489,
+        "Longitud": -103.312565,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753595540018",
+        "ClienteId": 1000234,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.626725,
+        "Longitud": -103.322998,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753710600010",
+        "ClienteId": 1000071,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.63635,
+        "Longitud": -103.3722,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "755758310014",
+        "ClienteId": 1000339,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.626615,
+        "Longitud": -103.322339,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "756376350010",
+        "ClienteId": 1000234,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.739856,
+        "Longitud": -103.413976,
+        "TipoMovimientoOperativoId": 5,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "ITX00000000100001234146",
+        "ClienteId": 1001321,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.744787,
+        "Longitud": -103.412486,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "756566300015",
+        "ClienteId": 1000339,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.626615,
+        "Longitud": -103.322339,
+        "TipoMovimientoOperativoId": 4,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "43289739411",
+        "ClienteId": 1001127,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 12,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "43292256933",
+        "ClienteId": 1001127,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 12,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "752889620015",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.620653,
+        "Longitud": -103.362407,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753390340010",
+        "ClienteId": 1000670,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.677047,
+        "Longitud": -103.400688,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "753850520010",
+        "ClienteId": 1001375,
+        "LocationType": "ROOFTOP",
+        "Latitud": 0,
+        "Longitud": 0,
+        "TipoMovimientoOperativoId": 14,
+        "TipoCodigoPostal": 2
+      },
+      {
+        "GuiaId": "CNA000003371190",
+        "ClienteId": 1001146,
+        "LocationType": "ROOFTOP-EDIT",
+        "Latitud": 20.786233,
+        "Longitud": -103.451012,
+        "TipoMovimientoOperativoId": 8,
+        "TipoCodigoPostal": 1
+      },
+      {
+        "GuiaId": "756305210012",
+        "ClienteId": 1000339,
+        "LocationType": "ROOFTOP",
+        "Latitud": 20.63574,
+        "Longitud": -103.3529,
+        "TipoMovimientoOperativoId": 20,
+        "TipoCodigoPostal": 1
+      }
+    ]
+  }

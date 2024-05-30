@@ -1,2 +1,6 @@
+uvicorn
 fastapi
-folium
+pyodbc
+requests
+config
+cryptography
