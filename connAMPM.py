@@ -15,8 +15,6 @@ import configuracion
 #!!!!!Producción
 cadena_conexion = compiler.do(configuracion.connP)
 
-
-
 conexion_input = input("Conexión (local/produccion): ")
 print("La conexión es: ", conexion_input)
 
@@ -26,7 +24,6 @@ elif(conexion_input == "produccion"):
     cadena_conexion = compiler.do(configuracion.connP)
 else:
     print("Usando cadena default.")
-
 
 
 try: 
